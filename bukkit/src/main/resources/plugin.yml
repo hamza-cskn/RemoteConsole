@@ -1,0 +1,4 @@
+name: RemoteConsole
+main: mc.obliviate.remoteconsole.bukkit.RemoteConsoleBukkit
+author: Mr_Obliviate
+version: 1.0-experimental

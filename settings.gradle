@@ -1,0 +1,5 @@
+rootProject.name = 'RemoteConsole'
+include 'server'
+include 'client'
+include 'bukkit'
+
